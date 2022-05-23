@@ -1,0 +1,2 @@
+RUBY PROGRESS REPORT
+Ruby is an object oriented language that dexcribes almost everything as an object. 
